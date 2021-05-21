@@ -1,2 +1,2 @@
-print("This is a file conflict")
-
+def func():
+    pass
